@@ -1,12 +1,15 @@
 ☕ Campus Café Billing System
 
-A simple, terminal-based C application designed to streamline canteen billing operations by automating menu display, order processing, and bill generation.
+A terminal-based C application designed to streamline canteen billing operations by automating menu display, order processing, and bill generation.
+
 📖 Overview
 
 This project offers a straightforward solution for small-scale canteens or campus cafés to digitize their billing process. Users can select items from a predefined menu, specify quantities, and generate a detailed bill saved as a text file.
+
 🌟 Project Theme
 
 Automating Canteen Operations with Simplicity
+
 💡 Vision
 
 To provide an accessible and efficient billing system for small eateries, reducing manual errors and enhancing customer service through digital transformation.
@@ -39,3 +42,5 @@ To provide an accessible and efficient billing system for small eateries, reduci
     Compiler: GCC or any standard C compiler
 
     Platform: Cross-platform (Windows, Linux, macOS terminals)
+
+
