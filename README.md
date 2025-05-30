@@ -1,31 +1,41 @@
-Name of the Project:Billing system for Canteen
-General Overview of Project
-A Canteen Billing System is a digital solution designed to streamline canteen operations, making the dining experience more efficient and enjoyable for both customers and staff
+☕ Campus Café Billing System
 
-**🌟 Project Theme**:
+A simple, terminal-based C application designed to streamline canteen billing operations by automating menu display, order processing, and bill generation.
+📖 Overview
 
+This project offers a straightforward solution for small-scale canteens or campus cafés to digitize their billing process. Users can select items from a predefined menu, specify quantities, and generate a detailed bill saved as a text file.
+🌟 Project Theme
+
+Automating Canteen Operations with Simplicity
 💡 Vision
 
-🎯 Objective
+To provide an accessible and efficient billing system for small eateries, reducing manual errors and enhancing customer service through digital transformation.
+🎯 Objectives
 
-🚀 Project: Enviro Navigator
+    Menu Display: Present a clear and organized list of available items with prices.
 
-Key Features:
+    Order Processing: Allow users to select items and input desired quantities.
 
-📱 Application Demo
-Check out our demo video:
+    Bill Generation: Calculate totals and output a formatted bill to a text file.
 
-Impact:
+    User-Friendly Interface: Ensure ease of use for staff with minimal technical expertise.
+
+🚀 Key Features
+
+    Structured Menu: Items are organized with IDs, names, and prices for easy selection.
+
+    Dynamic Order Entry: Users can input multiple items and quantities in a single session.
+
+    Automated Calculations: The system computes individual and total costs automatically.
+
+    File Output: Generates a neatly formatted bill (Bill.txt) for record-keeping.
+
+    Error Handling: Validates user inputs to prevent invalid selections.
 
 💻 Tech Stack
-Languages:
 
-Frameworks: 
-Tools: 
-Machine Learning: 
-Database: 
-Cloud: 
+    Language: C
 
-🌐 Applications
+    Compiler: GCC or any standard C compiler
 
-🌍 Scaling for a Sustainable Digital India
+    Platform: Cross-platform (Windows, Linux, macOS terminals)
