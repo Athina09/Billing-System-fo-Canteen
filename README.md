@@ -42,5 +42,8 @@ To provide an accessible and efficient billing system for small eateries, reduci
     Compiler: GCC or any standard C compiler
 
     Platform: Cross-platform (Windows, Linux, macOS terminals)
+    
+🤝 Contributing
 
+Contributions are welcome! If you'd like to enhance this calculator or add new features, feel free to fork the repository and submit a pull request.
 
